@@ -1,0 +1,86 @@
+#selected-background {
+  width: 21px;
+  height: 21px;
+  border: 1px solid black;
+  border-radius: 3px;
+}
+.theme-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #efefef;
+  width: 70px;
+  padding: 7px;
+  border-radius: 3px;
+}
+.container-end {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.container {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin: 12px;
+}
+
+.colors-options {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: #efefef;
+  width: 90px;
+  padding: 7px;
+  border-radius: 3px;
+  margin-top: 12px;
+}
+
+.add-color-container {
+  margin-top: 12px;
+  background-color: #efefef;
+  min-width: 90px;
+  padding: 7px;
+  border-radius: 3px;
+}
+
+.add-color-input {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.color {
+  margin: 3px;
+}
+
+.color-add {
+  margin: 3px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.circular-container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+input {
+  width: 80px;
+  padding: 7px;
+  border-radius: 3px;
+  margin-right: 9px;
+}
+
+.error-message {
+  color: red;
+  margin-left: 3px;
+}

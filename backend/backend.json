@@ -1,0 +1,53 @@
+{
+  "list": [
+    {
+      "name": "teste",
+      "id": 1
+    },
+    {
+      "name": "#testea",
+      "id": 2
+    }
+  ],
+  "colors": [
+    {
+      "name": "#000080",
+      "id": 1
+    },
+    {
+      "name": "#808080",
+      "id": 2
+    },
+    {
+      "name": "#6A5ACD",
+      "id": 3
+    },
+    {
+      "name": "#00CED1",
+      "id": 4
+    },
+    {
+      "name": "#2E8B57",
+      "id": 5
+    },
+    {
+      "name": "#DEB887",
+      "id": 6
+    },
+    {
+      "name": "#DB7093",
+      "id": 7
+    },
+    {
+      "name": "#B22222",
+      "id": 8
+    },
+    {
+      "name": "#FDF5E6",
+      "id": 9
+    }
+  ],
+  "color_selected": {
+    "name": "#2E8B57"
+  }
+}

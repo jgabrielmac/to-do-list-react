@@ -1,0 +1,29 @@
+.list-container {
+  height: 65%;
+  overflow-y: auto;
+  margin-top: 21px;
+  padding-left: 21px;
+  padding-right: 21px;
+}
+
+.item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.item-name {
+  text-align: start;
+  width: auto;
+  font-family: "Poppins", sans-serif;
+}
+
+hr.solid {
+  border-top: 3px solid #bbb;
+  margin-bottom: 18px;
+}
+
+button {
+  cursor: pointer;
+}

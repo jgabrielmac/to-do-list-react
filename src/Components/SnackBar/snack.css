@@ -1,0 +1,15 @@
+.snack-bar {
+  height: 30px;
+  min-width: 320px;
+  position: absolute;
+  bottom: 33px;
+  left: 90% - 320px;
+  background-color: lawngreen;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.error {
+  background-color: rgb(252, 42, 0);
+}

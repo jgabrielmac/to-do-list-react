@@ -1,0 +1,22 @@
+.input-style {
+  padding: 9px;
+  border-radius: 12px;
+  border: 1px solid #238bff;
+  margin-right: 12px;
+}
+
+.form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.button-add {
+  background-color: #238bff;
+  border-radius: 5px;
+  padding: 2px;
+}
+.button-add :hover {
+  cursor: pointer;
+}
